@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Natalie's Digital Media Portfolio 
 
 You can use the [editor on GitHub](https://github.com/nbowers500/digital-media-porfolio-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
